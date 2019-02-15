@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+   <student rollno = "100">
+      <firstname>sumit</firstname>
+      <lastname>dubey</lastname>
+      <nickname>dubey</nickname>
+      <marks>85</marks>
+   </student>
+
+   <student rollno = "101">
+      <firstname>deepak</firstname>
+      <lastname>agrawal</lastname>
+      <nickname>dk</nickname>
+      <marks>95</marks>
+   </student>
+
+   <student rollno = "102">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "103">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "104">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "105">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "106">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "107">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "108">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "109">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+   <student rollno = "110">
+      <firstname>classfied</firstname>
+      <lastname>lost</lastname>
+      <nickname>cl</nickname>
+      <marks>90</marks>
+   </student>
+</user>
